@@ -86,24 +86,24 @@ Interactive page allowing detailed analysis of individual countries.
 
 ## Executive Overview
 
-![Executive Overview](Executive_Overview-1.png)
+![Executive Overview](Screenshots/Executive_Overview-1.png)
 
 
 ## Climate & Emissions
 
-![Climate Analysis](Climate_Analysis-2.png)
+![Climate Analysis](Screenshots/Climate_Analysis-2.png)
 
 ## Air Quality Analysis
 
-![Air Quality](Air_Quality-3.png)
+![Air Quality](Screenshots/Air_Quality-3.png)
 
 ## Health & Life Expectancy
 
-![Health Analysis](Life_Expectancy-4.png)
+![Health Analysis](Screenshots/Life_Expectancy-4.png)
 
 ## Country Drill-through
 
-![Country Details](Country_Details-5.png)
+![Country Details](Screenshots/Country_Details-5.png)
 
 
 #  Key Insights
